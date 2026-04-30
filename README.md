@@ -34,6 +34,8 @@ a moderate oven—about 350°F. When cool, fill and frost.
 Sift confectioner's sugar, add grated orange rind and moisten with orange juice. If orange is a very large one 
 entire juice may not be needed. On the other hand, if orange is small a little water may be needed to moisten frosting sufficiently. 
 
+Recipe from [Woman's World caleendar cook book](https://babel.hathitrust.org/cgi/pt?id=coo1.ark:/13960/t3805nx1f&seq=25)
+
 To one-half of this mixture add dates, cut into small pieces, and use as filling for cake; frosting with the
 remaining mixture and decorating with sections of orange and perfect dates. 
 
