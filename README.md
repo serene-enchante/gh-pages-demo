@@ -1,2 +1,2 @@
-# Test
-This is a test read me
+# gh-pages-demp 
+A demo of GitHub Pages
