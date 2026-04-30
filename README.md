@@ -1,7 +1,7 @@
 # Ida Bailey Allen's Orange and Date Cake
 ## Orange and Date Cake
 
-![Date cake](/images/orange-date-cake.jpeg)
+![Date cake](/images/orangeDateCake.jpeg)
 
 ### Ingredients
 - 1/2 cup butter
@@ -38,6 +38,7 @@ Recipe from [Woman's World caleendar cook book](https://babel.hathitrust.org/cgi
 
 To one-half of this mixture add dates, cut into small pieces, and use as filling for cake; frosting with the
 remaining mixture and decorating with sections of orange and perfect dates. 
+![Cookbook cover](/images/cookbookCover.jpg)
 
 ## Source
 Allen, Ida Bailey. *Woman's World Calendar Cook Book*. Chicago: Woman's World Magazine Co., 1922. 
